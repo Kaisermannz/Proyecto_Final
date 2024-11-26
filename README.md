@@ -36,7 +36,7 @@
 
 ## Modos de Ejecución
 
-**El Programa Cuenta Con Dos Modos De Uso: **
+El Programa Cuenta Con Dos Modos De Uso:
 1. Modo de Comparación Entre Archivos **(-c)** : Permite comparar secuencias de dos archivos **.fna** distintos.
 
 2. Modo de Comparación Interno **(-w)** : Permite comparar secuencias de un mismo archivo **.fna** .
