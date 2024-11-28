@@ -6,7 +6,7 @@
 
 ------------
 
-##Requisitos previos
+## Requisitos previos
 - Sistema operativo: Linux/Unix.
 - Compilador C++: GCC, Clang, o MSVC con soporte para C++11 o superior.
 - Graphviz: Tener instalado [Graphviz](http://graphviz.org/ "Graphviz").
@@ -36,10 +36,10 @@
 
 ## Modos de Ejecución
 
-**El Programa Cuenta Con Dos Modos De Uso: **
-1. Modo de Comparación Entre Archivos **(-c)** : Permite comparar secuencias de dos archivos ***.fna* **distintos.
+El Programa Cuenta Con Dos Modos De Uso:
+1. Modo de Comparación Entre Archivos **(-c)** : Permite comparar secuencias de dos archivos **.fna** distintos.
 
-2. Modo de Comparación Interno **(-w)** : Permite comparar secuencias de un mismo archivo ***.fna* **.
+2. Modo de Comparación Interno **(-w)** : Permite comparar secuencias de un mismo archivo **.fna** .
 
 - `$ ./needleman_wusch -c < ruta/archivo1.txt > < ruta/>archivo2.txt >`
 
@@ -54,6 +54,7 @@
 ------------
 
 ## Ejemplo de uso
+
 **Compilar el código**
 
 `$ g++ main.cpp -o needleman_wunsch`
@@ -70,7 +71,7 @@
 
 
 ### Autor 
-***Cristobal Mauricio Araya Saldivia ***
+Cristobal Mauricio Araya Saldivia
 
 
 
