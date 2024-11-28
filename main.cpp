@@ -297,7 +297,8 @@ int main(int argc, char *argv[]) {
         << endl;
     cout << "2) Guardar resultado del alineamiento en un txt." << endl;
     cout << "3) Calcular el valor optimo del alineamiento." << endl;
-    cout << "4) Salir." << endl;
+    cout << "4) Imprimir Alineamiento." << endl;
+    cout << "5) Salir." << endl;
     cin >> respuesta;
 
     switch (respuesta) {
@@ -314,6 +315,10 @@ int main(int argc, char *argv[]) {
       break;
     }
     case 4: {
+      system("cat Alinamiento.txt");
+      break;
+    }
+    case 5: {
       return 0;
     }
     default:
