@@ -73,6 +73,3 @@ El Programa Cuenta Con Dos Modos De Uso:
 ### Autor 
 Cristobal Mauricio Araya Saldivia
 
-
-
-
